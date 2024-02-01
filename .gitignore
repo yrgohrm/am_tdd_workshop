@@ -2,6 +2,9 @@
 .idea/*
 *.ipr
 
+### VS Code ###
+.vscode/
+
 # CMake
 cmake-build-*/
 

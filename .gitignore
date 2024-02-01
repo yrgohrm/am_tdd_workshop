@@ -2,9 +2,6 @@
 .idea/*
 *.ipr
 
-### VS Code ###
-.vscode/
-
 # CMake
 cmake-build-*/
 
@@ -28,6 +25,9 @@ fabric.properties
 
 *.iml
 modules.xml
+
+### VS Code ###
+.vscode/
 
 ### Java ###
 # Compiled class file
